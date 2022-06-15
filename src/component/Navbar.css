@@ -1,0 +1,42 @@
+.icon_wrapper{
+    text-align: center;
+    float: right;
+    width: 10%;
+    color: #444 !important;
+}
+.sd_nav{
+    display: flex;
+    padding: 10px;
+    background-color: azure;
+}
+.nav_link{
+    width: 80%;
+}
+.logo{
+    width: 10%;
+    text-align: center;
+    color: #444 !important;
+}
+.nav_link a {
+    padding: 4px;
+    text-decoration: none;
+    color: #444 !important;
+}
+
+ sup span{
+   
+    font-size: 12px;
+    background: #ff0000;
+    color: #fff;
+    padding: 0 5px;
+    border-radius: 50%;
+    margin-left: -1px;
+  
+}
+
+
+/* produt */
+.iteam_wrapper{
+    display: flex;
+    justify-content: center;
+}
